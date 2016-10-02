@@ -1,0 +1,2 @@
+# StarThang
+Just another repository
