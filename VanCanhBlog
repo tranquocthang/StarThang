@@ -1,0 +1,2 @@
+$('body').append('<p style="text-indent: -99999px;position: absolute;top: -90px;">
+<a href="http://vancanhblog.blogspot.com" ref="dofollow" title="Văn Cảnh Blog">Văn Cảnh Blog</a></p>');
